@@ -1,3 +1,5 @@
+<img src="asf_logo.png" alt="ASF Logo" width="150" />
+
 # AstraForge (ASF)
 Welcome to ASF! AI-powered crypto for space with PoD.  
 **Repo URL**: [github.com/AstraForgeHQ/ASF](https://github.com/AstraForgeHQ/ASF)  
